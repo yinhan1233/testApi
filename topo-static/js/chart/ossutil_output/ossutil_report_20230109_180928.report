@@ -1,0 +1,1 @@
+# /home/jenkins/workspace/UploadFile_to_OSS/ossutil64 cp -r -f -u /home/jenkins/workspace/UploadFile_to_OSS/eam-web/dist/topo-static/ oss://topo-oss/uinnova/monet-182/static/
